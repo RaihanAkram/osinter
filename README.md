@@ -58,7 +58,7 @@ results/example.com/<timestamp>/
 ```
 Notes:
 - Running without arguments shows usage: ```Usage: ./osinter.sh <domain>```
-- Re-running the same domain creates a new timestamped folder and updates the latest ```symlink
+- Re-running the same domain creates a new timestamped folder and updates the latest ```symlink```
 
 ## Inspiration & Enhancements
 
