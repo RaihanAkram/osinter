@@ -1,0 +1,8 @@
+# Ignore results folder
+results/
+
+# Ignore system files
+*~
+*.swp
+.DS_Store
+*.log
